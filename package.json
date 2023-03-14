@@ -1,0 +1,22 @@
+{
+  "name": "electron_app_template",
+  "version": "0.0.1",
+  "description": "Electron App Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegoshiiFR/Electron_App_Template.git"
+  },
+  "author": "Legoshii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LegoshiiFR/Electron_App_Template/issues"
+  },
+  "homepage": "https://github.com/LegoshiiFR/Electron_App_Template#readme",
+  "devDependencies": {
+    "electron": "^23.1.3"
+  }
+}
